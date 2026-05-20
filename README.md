@@ -1,27 +1,59 @@
- Hi there 👋 I'm Aashima
+  Hi 👋, I'm Aashima
 
-💻 Frontend Developer & React Learner
-🌱 Currently learning React, Tailwind CSS, and APIs
-🚀 Building modern and responsive web projects
-🎯 Goal: Become a Full Stack Developer
+ 💻 Diploma Student in Computer Engineer
+ 
+ 🌐 Aspiring Full Stack Developer
 
- 🛠️ Skills
+Passionate and motivated Computer Engineering student with an interest in web development and software programming. I enjoy building responsive websites, learning modern technologies, and improving my coding skills through real-world projects.
 
-* HTML
-* CSS
+---
+
+ 🚀 About Me
+
+* 🎓 Studying Diploma in Computer Engineering
+* 🌱 Currently learning React and modern web development
+* 💡 Interested in Frontend & Backend Development
+* 🎯 Goal: Become a Professional Full Stack Developer
+* ⚡ Love creating clean and responsive UI designs
+
+---
+
+ 🛠️ Technical Skills
+
+ 👨‍💻 Programming Languages
+
+* C
+* Java
 * JavaScript
+* PHP
+
+ 🌐 Web Technologies
+
+* HTML5
+* CSS3
 * React
 * Tailwind CSS
-* Git & GitHub
 
-📌 Projects
+ 🛠️ Tools & Platforms
 
-* Portfolio Website
+* Git
+* GitHub
+* VS Code
+
+---
+ 📌 Projects
+
+* Personal Portfolio Website
 * React API Projects
-* UI Components
+* Responsive UI Designs
 
-## 📫 Connect With Me
+---
 
-* GitHub: https://github.com/aashimazarah-gif
+📫 Contact Me
 
-⭐ Always learning and building new things!
+* 📧 Email: [aashimazarah@gmail.com](mailto:aashimazarah@gmail.com)
+* 💻 GitHub: https://github.com/aashimazarah-gif
+
+---
+
+⭐ “Learning never stops in technology.”
